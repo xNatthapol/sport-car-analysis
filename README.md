@@ -25,12 +25,12 @@ Check Python is installed
 
 Clone the repository from GitHub
   ```bash
-  git clone https://github.com/xNatthapol/ku-polls.git
+  git clone https://github.com/xNatthapol/sport-car-analysis.git
   ```
 
 Change the directory to the ku-polls project
   ```bash
-  cd ku-polls
+  cd sport-car-analysis
   ```
 
 Create a Virtual Environment
