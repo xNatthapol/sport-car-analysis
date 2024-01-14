@@ -28,7 +28,7 @@ Clone the repository from GitHub
   git clone https://github.com/xNatthapol/sport-car-analysis.git
   ```
 
-Change the directory to the ku-polls project
+Change the directory to the sport-car-analysis project
   ```bash
   cd sport-car-analysis
   ```
